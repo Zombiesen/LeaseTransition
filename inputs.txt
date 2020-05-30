@@ -1,0 +1,10 @@
+10
+2019/04/01
+
+
+
+
+
+**** Sequence of inputs ****
+Discounting Rate - 10 for 10%
+Start of the Year (in format YYYY-MM-DD)
